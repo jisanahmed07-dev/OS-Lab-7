@@ -1,40 +1,44 @@
-\# Git Experiment
+\# Open Source Contribution
 
 
 
-This project demonstrates basic Git version control,
-
-branching, merging, and collaboration using GitHub.
+This project demonstrates the basic open-source development workflow using Git and GitHub.
 
 
 
-\## Experiment 7
+\## Experiment 10
 
 
 
-Version Control and Collaboration Using Git.
+\### Open Source Contribution and Development Workflow
 
 
 
-\## New Feature
+This experiment demonstrates how developers contribute to an open-source project using Git and GitHub.
 
 
 
-This feature demonstrates Git branching and merging.
+\### Contribution Workflow
 
 
 
-\## Experiment 8
+1\. Fork the repository.
 
+2\. Clone the forked repository.
 
+3\. Create a new branch.
 
-\## Project Information
+4\. Make the required changes.
 
+5\. Check changes using `git diff`.
 
+6\. Commit the changes.
 
-This project demonstrates the basic workflow of
+7\. Push the branch to the forked repository.
 
-version control and collaboration using Git and GitHub.
+8\. Create a Pull Request to the original repository.
+
+9\. Review and merge the Pull Request.
 
 
 
@@ -42,11 +46,11 @@ version control and collaboration using Git and GitHub.
 
 
 
-\- Git
+\* Git
 
-\- GitHub
+\* GitHub
 
-\- Markdown
+\* Markdown
 
 
 
@@ -54,7 +58,7 @@ version control and collaboration using Git and GitHub.
 
 
 
-To understand repository management, branching,
+To understand the open-source contribution workflow, including repository forking, branching, committing, pushing changes, and creating Pull Requests.
 
-commits, issues, and pull requests.
+
 
